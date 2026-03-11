@@ -37,3 +37,4 @@ public class HelloApp {
     }
 
 }
+UC1 Implementation completed successfully.
